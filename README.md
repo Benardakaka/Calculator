@@ -1,5 +1,5 @@
 # CALCULATOR
-#### {Know know about math}, {27/09/2020}
+#### {To Know More about math}, {27/09/2020}
 #### By **{BENARD AKAKA}**
 ## Description
 *This is a detailed description of My application, including m purpose and usage.
