@@ -13,7 +13,7 @@
 *CSS
 *JAVASCRIPT
 ## Support and contact details
-*CONTACTS:+254746225871; benardakaka484@gmail.com
+*CONTACTS:+254746225871; benardakaka484@gmail..com
 ### License
 *{MIT License
 
